@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-14T05:59:14Z" name="Default suite" finished-at="2024-03-14T05:59:28Z" duration-ms="13268">
+    <groups>
+    </groups>
+    <test started-at="2024-03-14T05:59:14Z" name="Default test" finished-at="2024-03-14T05:59:28Z" duration-ms="13268">
+      <class name="webElements.ToRegisterUserAndLoginUserTest">
+        <test-method is-config="true" signature="bs()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@327bcebd]" started-at="2024-03-14T05:59:14Z" name="bs" finished-at="2024-03-14T05:59:14Z" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@327bcebd]" started-at="2024-03-14T05:59:14Z" name="bt" finished-at="2024-03-14T05:59:14Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@327bcebd]" started-at="2024-03-14T05:59:14Z" name="bc" finished-at="2024-03-14T05:59:22Z" duration-ms="7338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@327bcebd]" started-at="2024-03-14T05:59:22Z" name="bm" finished-at="2024-03-14T05:59:22Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="toRegisterUserAndVerify()[pri:1, instance:webElements.ToRegisterUserAndLoginUserTest@327bcebd]" started-at="2024-03-14T05:59:22Z" name="toRegisterUserAndVerify" finished-at="2024-03-14T05:59:25Z" duration-ms="3415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toRegisterUserAndVerify -->
+        <test-method is-config="true" signature="am()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@327bcebd]" started-at="2024-03-14T05:59:25Z" name="am" finished-at="2024-03-14T05:59:25Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method signature="toLoginUserAndVerify()[pri:2, instance:webElements.ToRegisterUserAndLoginUserTest@327bcebd]" started-at="2024-03-14T05:59:25Z" name="toLoginUserAndVerify" finished-at="2024-03-14T05:59:26Z" duration-ms="903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toLoginUserAndVerify -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@327bcebd]" started-at="2024-03-14T05:59:25Z" name="bm" finished-at="2024-03-14T05:59:25Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method is-config="true" signature="am()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@327bcebd]" started-at="2024-03-14T05:59:26Z" name="am" finished-at="2024-03-14T05:59:26Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@327bcebd]" started-at="2024-03-14T05:59:26Z" name="ac" finished-at="2024-03-14T05:59:28Z" duration-ms="1538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="at()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@327bcebd]" started-at="2024-03-14T05:59:28Z" name="at" finished-at="2024-03-14T05:59:28Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method is-config="true" signature="as()[pri:0, instance:webElements.ToRegisterUserAndLoginUserTest@327bcebd]" started-at="2024-03-14T05:59:28Z" name="as" finished-at="2024-03-14T05:59:28Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- webElements.ToRegisterUserAndLoginUserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
